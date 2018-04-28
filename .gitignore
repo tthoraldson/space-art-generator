@@ -1,2 +1,6 @@
 .git
 photos/*
+test/*
+.ipynb_checkpoints
+
+workflow.txt
